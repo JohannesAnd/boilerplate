@@ -1,0 +1,7 @@
+{
+  "error_state": "error",
+  "in_progress_state": "test_in_progress",
+  "retries": 0,
+  "start_state": "test",
+  "timeout": 30000
+}

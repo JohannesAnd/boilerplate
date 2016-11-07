@@ -9,7 +9,7 @@ import FirebaseModule from 'cerebral-module-firebase';
 import RouterModule from 'cerebral-module-router';
 
 import config from 'config';
-import firebaseConfigs from '../config/firebaseConfig';
+import firebaseConfigs from '../config/firebase';
 
 import App from './components/App';
 
